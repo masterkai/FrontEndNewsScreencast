@@ -59,6 +59,7 @@ a {
   font-size: 36px;
   font-weight: bold;
   text-transform: uppercase;
+  text-shadow: 4px 4px 0 rgba(0, 0, 0, 0.4);
 }
 
 /*-----------------------------------------------
